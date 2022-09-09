@@ -6,8 +6,8 @@ public class Gustaffx {
         JOptionPane.showMessageDialog(null, "VOCÊ GANHOU UMA PREMIO");
         JOptionPane.showMessageDialog(null,
                 "1- MATAR O BOLSONARO\n"
-                        + "2- VOTAR NO LULA"
-                        + "\n3- NAMORAR COM O WENDIL"
+              + "2- VOTAR NO Ciro\n"
+              + "n3- NAMORAR COM O WENDIL"
         );
 
 
